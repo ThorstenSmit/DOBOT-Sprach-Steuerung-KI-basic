@@ -10,6 +10,22 @@ Der Schwerpunkt liegt auf dem, was Entwickler/innen verantworten: **Schnittstell
 Texteingabe ──► KI-Client ──► JSON-Parser ──► VALIDIERUNG ──► Bestätigung ──► Dobot
 ```
 
+## Einordnung: Vorstufe zu Physical AI
+Dieses Projekt ist **keine vollständige Physical AI**, sondern eine **Vorstufe**: der erste Schritt in diese Richtung.
+
+*Physical AI* meint Systeme, die die physische Welt **wahrnehmen**, selbst **entscheiden** und **handeln**, im Idealfall in einem **geschlossenen Regelkreis** (der Roboter prüft sein Ergebnis und korrigiert) und oft mit einer KI, die das Handeln selbst lernt oder steuert. Der Begriff ist unscharf.
+
+| | Dieses Projekt |
+|---|---|
+| Wahrnehmung | nur Text (keine Sensoren) |
+| Rolle der KI | **übersetzt** Sprache in einen Befehl (Parser) |
+| Handeln | klassisch skriptiert, geprüft durch `validiere()` |
+| Rückkopplung | keine (offene Kette) |
+| Lernen | nein |
+
+**Was ihr hier trotzdem lernt:** die Schicht *um* die KI herum, die jedes Physical-AI-System braucht: Schnittstellen entwerfen, KI-Antworten validieren, Fehler abfangen, Sicherheit.
+**Wie es weitergeht:** [DOBOT-Vision-Steuerung-KI-advanced](https://github.com/ThorstenSmit/DOBOT-Vision-Steuerung-KI-advanced) ergänzt Kamera und eigenständige Entscheidungen.
+
 ## Voraussetzung
 Das Grundprojekt **[DobotBasicMovement](https://github.com/ThorstenSmit/DobotBasicMovement)** muss in deinem eigenen Clone laufen (Treiber, Python-Umgebung, `python 02_erste_bewegung.py` fährt).
 
