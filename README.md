@@ -16,13 +16,14 @@ Das Grundprojekt **[DobotBasicMovement](https://github.com/ThorstenSmit/DobotBas
 ## Los geht's
 1. **[PROJEKT.md](PROJEKT.md)** lesen: Aufgabe, Zeitplan (4 Stunden in 2 Wochen), Teilaufgaben, Abnahme, Bewertungskriterien.
 2. **[starter/README.md](starter/README.md)** folgen: Starter-Dateien in den Clone kopieren, Pakete installieren, API-Schlüssel setzen, `python check_api.py`.
-3. Vom Betreuer/der Lehrkraft den **API-Schlüssel** und den **Modellnamen** besorgen.
+3. **API-Schlüssel und Modellnamen** besorgen: entweder von der Lehrkraft oder mit einem eigenen kostenlosen Groq-Account nach **[API-KEY-ANLEITUNG.md](API-KEY-ANLEITUNG.md)**.
 
 ## Inhalt
 
 | Pfad | Zweck |
 |---|---|
 | [PROJEKT.md](PROJEKT.md) | Projektbeschreibung und Aufgaben für Teams |
+| [API-KEY-ANLEITUNG.md](API-KEY-ANLEITUNG.md) | Eigenen Groq-API-Key anlegen und sicher verwenden |
 | [starter/](starter/) | Gerüst: KI-Client, Mock-KI, Validierungs-Platzhalter, Tests, Konsolenanwendung |
 
 ## Sicherheit

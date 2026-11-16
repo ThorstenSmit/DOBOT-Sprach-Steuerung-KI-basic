@@ -11,7 +11,7 @@ Dieses Projekt trainiert, was bleibt, wenn KI Standardcode schreibt: Schnittstel
 ## Voraussetzungen
 - Das Grundprojekt [DobotBasicMovement](https://github.com/ThorstenSmit/DobotBasicMovement) läuft in **deinem eigenen Clone**: Der Dobot verbindet sich und `python 02_erste_bewegung.py` fährt.
 - Du hast das **Starter-Paket** (Ordner `starter/`, Anleitung in [starter/README.md](starter/README.md)) in den Hauptordner deines Clones kopiert und `pip install -r requirements-ki.txt` ausgeführt.
-- Du hast von der Lehrkraft **API-Schlüssel und Modellnamen** bekommen und `python check_api.py` meldet „OK“.
+- Du hast **API-Schlüssel und Modellnamen** (von der Lehrkraft oder mit eigenem Account nach [API-KEY-ANLEITUNG.md](API-KEY-ANLEITUNG.md)) und `python check_api.py` meldet „OK“.
 
 ## Zeitplan: 4 Stunden in 2 Wochen
 

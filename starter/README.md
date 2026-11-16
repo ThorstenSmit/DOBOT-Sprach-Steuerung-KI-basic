@@ -26,7 +26,7 @@ Dieses Paket enthält das Gerüst für das Projekt (siehe [../PROJEKT.md](../PRO
 
 ## 2. API-Schlüssel setzen (PowerShell)
 
-Schlüssel und Modellname bekommst du von der Lehrkraft. **Der Schlüssel gehört nie in den Code, nie in Git und nie in einen Chat.**
+Schlüssel und Modellname bekommst du von der Lehrkraft. Oder du legst einen eigenen Key an: [../API-KEY-ANLEITUNG.md](../API-KEY-ANLEITUNG.md). **Der Schlüssel gehört nie in den Code, nie in Git und nie in einen Chat.**
 
 Nur für das aktuelle Terminal:
 ```powershell
