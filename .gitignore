@@ -1,0 +1,8 @@
+# Nur für die Lehrkraft
+LEHRER.md
+
+# API-Schlüssel nie einchecken
+.env
+
+# Musterlösung nur für die Lehrkraft
+loesung/
