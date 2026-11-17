@@ -24,7 +24,7 @@ Dieses Projekt ist **keine vollständige Physical AI**, sondern eine **Vorstufe*
 | Lernen | nein |
 
 **Was ihr hier trotzdem lernt:** die Schicht *um* die KI herum, die jedes Physical-AI-System braucht: Schnittstellen entwerfen, KI-Antworten validieren, Fehler abfangen, Sicherheit.
-**Wie es weitergeht:** [DOBOT-Vision-Steuerung-KI-advanced](https://github.com/ThorstenSmit/DOBOT-Vision-Steuerung-KI-advanced) ergänzt Kamera und eigenständige Entscheidungen. Danach folgt [DOBOT-Lernender-Greifer-KI-expert](https://github.com/ThorstenSmit/DOBOT-Lernender-Greifer-KI-expert): Der Roboter lernt aus eigener Erfahrung.
+**Wie es weitergeht:** [DOBOT-Vision-Steuerung-KI-advanced](https://github.com/ThorstenSmit/DOBOT-Vision-Steuerung-KI-advanced) ergänzt Kamera und eigenständige Entscheidungen. Danach folgt [DOBOT-Lernender-Greifer-KI-expert](https://github.com/ThorstenSmit/DOBOT-Lernender-Greifer-KI-expert): Der Roboter lernt aus eigener Erfahrung. Ohne Dobot: [PhysicalAI-Sortierweiche-Webcam-basic](https://github.com/ThorstenSmit/PhysicalAI-Sortierweiche-Webcam-basic) (Webcam, KI, Simulation oder SPS).
 
 ## Voraussetzung
 Das Grundprojekt **[DobotBasicMovement](https://github.com/ThorstenSmit/DobotBasicMovement)** muss in deinem eigenen Clone laufen (Treiber, Python-Umgebung, `python 02_erste_bewegung.py` fährt).
